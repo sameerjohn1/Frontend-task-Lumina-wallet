@@ -47,7 +47,6 @@ const Navbar = () => {
           </button>
         </div>
       </nav>
-      <hr />
 
       {/* only mobile menu items */}
       <div>
