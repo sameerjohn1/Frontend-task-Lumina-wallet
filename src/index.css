@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  /* overflow-x: hidden; */
+}
+
+.footer {
+  background-image: url("./assets/Rectangle\ 966.png");
+}
+
+.body {
+  background-color: black;
+}
+
+.buttonlinear {
+  background: rgb(175, 71, 247);
+  background: linear-gradient(
+    137deg,
+    rgba(175, 71, 247, 1) 0%,
+    rgba(104, 91, 251, 1) 100%
+  );
+}
